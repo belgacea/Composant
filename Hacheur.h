@@ -11,6 +11,6 @@ std::string hash(std::string chaine);
 * Prend en entrée une chaine de caractères et un hash (chaine de caractères)
 * Vérifie que le hash de la chaine correspond bien au hash en entrée
 */
-std::bool verifyHash(std::string chaine, std::string hash);
+std::bool checkHash(std::string chaine, std::string hash);
 
 #endif

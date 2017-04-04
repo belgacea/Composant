@@ -3,6 +3,7 @@
 #define Hacheur_h
 
 #include <string>
+#include "Bloc.h"
 
 /**
 * Prend en entrée une chaine de caractères
@@ -15,5 +16,11 @@ std::string hash(std::string chaine);
 * Vérifie que le hash de la chaine correspond bien au hash en entrée
 */
 std::bool checkHash(std::string chaine, std::string hash);
+
+/**
+* Prend en entrée un bloc
+* Retourne une chaine de caractères contenant les données du bloc dans un format quelconque
+*/
+std::string blocToString(Bloc bloc);
 
 #endif

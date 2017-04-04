@@ -1,5 +1,8 @@
+#pragma once
 #ifndef Hacheur_h
 #define Hacheur_h
+
+#include <string>
 
 /**
 * Prend en entrée une chaine de caractères

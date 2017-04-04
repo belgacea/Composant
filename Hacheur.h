@@ -7,7 +7,7 @@
 
 /**
 * Prend en entrée une chaine de caractères
-* Retourne le hash de la chaine de caractères en entrée en utilisant l'algorithme SHA-256 (64 bits en sortie) 
+* Retourne le hash de la chaine de caractères en entrée en utilisant l'algorithme SHA-256 (256 bits en sortie) 
 */
 std::string hash(std::string chaine);
 

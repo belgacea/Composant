@@ -61,7 +61,9 @@ public:
 	TXM tx0; // transaction du mineur (coinbase)
 
 	Bloc();
-	Bloc(char*, char*, unsigned int, int, TX, TXM);
+	Bloc(int, unsigned int, TX, TXM);
+	Bloc(int, unsigned int, TX, TXM, char*);
+	Bloc(int, unsigned int, TX, TXM, char*, char*);
 };
 
 #endif

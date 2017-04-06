@@ -24,4 +24,10 @@ bool checkHash(string chaine, string hash);
 */
 string blocToString(Bloc bloc);
 
+/*
+* Prend en entrée une transaction
+* Retourne une chaine de caractères contenant les données de la transaction dans un format quelconque
+*/
+string transactionToString(TX transaction);
+
 #endif

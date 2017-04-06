@@ -1,6 +1,6 @@
 #pragma once
-#ifndef Hacheur_h
-#define Hacheur_h
+#ifndef Hasheur_h
+#define Hasheur_h
 
 using namespace std;
 #include <string>

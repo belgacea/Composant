@@ -1,4 +1,4 @@
-# Composant 4 : Hacheur
+# Composant 4 : Hasheur
 > Groupe B
 
 ## Documentation

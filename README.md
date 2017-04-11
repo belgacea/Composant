@@ -10,7 +10,7 @@
 1. [Fichier](https://github.com/ProjetGroupeE/PPC)
 2. [Portefeuille](https://github.com/mtbontemps/composant_project)
 3. [Mineur](https://github.com/TaharBROURI/Mineur)
-4. [Hasheur]()
+4. [Hasheur](https://github.com/belgacea/Composant)
 5. [Vérificateur](https://github.com/MedSyl10/BlockChain)
 6. [Signature](https://github.com/louima/ComposantSignature)
 

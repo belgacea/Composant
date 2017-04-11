@@ -7,8 +7,8 @@
 
 ## Composants connexes
 
-1. [Fichier]()
-2. [Portefeuille]()
+1. [Fichier](https://github.com/ProjetGroupeE/PPC)
+2. [Portefeuille](https://github.com/mtbontemps/composant_project)
 3. [Mineur](https://github.com/TaharBROURI/Mineur)
 5. [Vérificateur](https://github.com/MedSyl10/BlockChain)
 6. [Signature](https://github.com/louima/ComposantSignature)

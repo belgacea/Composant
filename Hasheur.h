@@ -28,7 +28,7 @@ string blocToString(Bloc bloc);
 * Prend en entrée une transaction
 * Retourne une chaine de caractères contenant les données de la transaction dans un format quelconque
 */
-string transactionToString(TXI transaction);
-string transactionToString(UTXO transaction);
+string TXIToString(TXI transaction);
+string UTXOToString(UTXO transaction);
 
 #endif
